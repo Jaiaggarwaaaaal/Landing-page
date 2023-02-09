@@ -1,0 +1,109 @@
+@import url('hhtps://fonts.googleleapis.com/css2?family=ubuntu:weight@300&display=swap');
+*{
+    margin:0
+    padding: 0%   ;
+}
+.container{
+    max-width: 80vw;
+}
+.navbar li{
+    list-style:none ;
+    margin: 0 12px;
+}
+.navbar{
+    display: flex;
+    height: 67px;
+}
+.topleft{
+    width: 50%;
+    padding: 12px 0;
+    height: 155px;
+}
+.topright{
+    width: 50%;
+   padding:12px 0;
+   height: 155px;
+}
+section 1 {
+   max-height: 1000vh;
+
+}
+
+.section1 h1{
+    font-size: 2rem;
+}
+
+.btn{
+    padding: 4px;
+    border: 2px solid white;
+    border-radius: 6px ;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(179, 91, 15);
+
+}
+.text-blue{
+    color: blueviolet;
+}
+.dumbelling{
+    width: 200px;
+    padding-left: 170px;
+    padding-top: 150px;
+
+}
+.gyming{
+    width: 350px;
+    padding-left: 800px;
+    margin: -150px;
+}
+.box{
+    margin: 12px  22px;
+    min-width: 23vw;
+    border: 2px solid black;
+    text-align: center;
+   padding: 8px 0px;
+   border-radius:8px ;
+
+
+}
+.box ul{
+list-style-type: none;
+text-align: center;
+}
+.box li{
+    text-align: center;
+    padding-right: 45px;
+    
+}.highlight{
+   font-size: 1.5;
+   font-weight: bolder;
+}
+.plantable{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 180px;
+    padding-top: 5px;
+    padding-bottom: 23px;
+}
+.section3 table{
+    width: 100%;
+  border-collapse: collapse;
+    
+    text-align: center;
+}
+.section3 h1{
+    font-size: 2.3rem;
+}
+.section3 th{
+width: 23vw;
+border-bottom: 2px solid black;
+padding: 15px;
+}
+.section3 td{
+    border-bottom: 2px solid black;
+    
+}
+footer{
+padding-left: 550px;
+}
